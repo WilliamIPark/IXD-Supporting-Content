@@ -1,0 +1,78 @@
+Element Content: 
+
+Helium:
+	Symbol: He
+	Atomic Number: 2
+	Electrons: 2
+	Protons: 2
+	State: Gas
+	Colour: Colourless
+	Characteristics: Helium is light, odorless and colourless. 
+	
+	Image: Hot air balloon.
+	
+	Use: Helium is used to make the balloons at your parties float, and to take bigger balloons to the sky! It is also used to cool down parts in spaceships!
+	
+=========================================================
+	
+Lithium:
+	Symbol: Li
+	Atomic Number: 3
+	Electrons: 3
+	Protons: 3
+	State: Solid Metal
+	Colour: Silvery
+	Characteristics: Lithium is soft and silvery white and it is the least dense of metals. It's also highly reactive. If it is burning well, the flame becomes a bright white colour.
+	
+	Image: Battery
+	
+	Use: Lithium is used in rechargable batteries, and also to create aircraft parts!
+	
+=========================================================
+
+Hydrogen:
+	Symbol: H
+	Atomic Number: 1
+	Electrons: 1
+	Protons: 1
+	State: Gas
+	Colour: Colourless
+	Characteristics: Hydrogen is the simpliest element of all, and also the lightest. It is the most common element in the Universe.
+	
+	Image: Rocket
+	
+	Use: Hydrogen is used as a rocket fuel. It powered the Space Shuttle's lift-off and ascent into the skies!
+
+=========================================================
+
+Sodium:
+	Symbol: Na
+	Atomic Number: 11
+	Electrons: 11
+	Protons: 11
+	State: Solid
+	Colour: Silvery-white
+	Characteristics: Sodium is a soft, silvery-white metal. It is soft enough to cut with a coin. When in water sodium floats and also reacts violently!
+
+	Image: Glass Cup / Fertilizer
+
+	Use: Sodium is often used in the process to make glass. It's also a very important element in fertilizers, which help farmers grow their crops!
+
+
+=========================================================
+
+Carbon:
+	Symbol: C
+	Atomic Number: 6
+	Electrons: 6
+	Protons: 6
+	State: Solid
+	Colour: Black (Graphite), Transparent (Diamond)
+	Characteristics: Carbon exists with several different structures. It can appear as diamond, graphite, and more! Interestingly graphite is very soft, and diamond is one of the hardest naturally occuring substance.
+	
+	Image: Diamond
+	
+	Use: Carbin is used in lots of ways. As diamond it is used as jewlery, or even as parts for drills, as diamond is so hard. As graphite it is used for pencil tips! It can even be a fuel in the form of coal!
+
+
+	
