@@ -1,0 +1,66 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+main article, #header-wrap{
+  margin: auto;
+  width: 900px;
+}
+
+.two-column {
+  display: flex;
+}
+
+.two-column p:first-of-type {
+  margin-right: 1em;
+}
+
+.two-column p:last-of-type {
+  margin-left: 1em;
+}
+
+#nav-header {
+  background-color: black;
+  color: white;
+  padding-bottom: 2em;
+}
+
+#header-wrap {
+  display:flex;
+  align-items: flex-end;
+}
+
+#nav-header h1 {
+  margin: 1em 0 0 0;
+  letter-spacing: 3px;
+}
+
+#nav-header h3 {
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+#nav-header p {
+  padding: 0;
+  margin: 0;
+}
+
+#nav-header-issue {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-grow: 1;
+  position: relative;
+  bottom: 5px;
+}
+
+#national-geographic-logo {
+  height: 55px;
+  width: 30px;
+  position: relative;
+  bottom: 10px;
+  border: 5px solid #ffce00;
+  margin-right: 1em
+}
