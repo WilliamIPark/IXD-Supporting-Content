@@ -1,0 +1,7 @@
+My idea to aid education brings a digital layer of interaction into the classroom. We are thankful that today the world is so connected through the usage of technology, but I don't think it gets used to its full potential. The classroom is a prime example of this.
+
+The classroom could be better connected in many ways. I want to create an application that is opened by everyone when the class starts, that connects the class together in a digital layer. Imagine a scenario where the lecturer is asking for an opinion. With my application, the lecturer could prepare a poll as part of his slideshow, that when presented, polls the class live through the app on their phones, which in turn updates a graph in the slide live. This means everyone has input in the class, and it creates a more engaging lesson.
+
+Imagine another scenario where the lesson is coming to a close. Everyone should have notes on the lecture, and the lecturer will have his own notes. In the class everyone, lecturer included, can choose to share the notes for the day fast and seamlessly. These notes can then be accessed by everyone in the class at any time.
+
+There could be many other uses to a digital layer being brought into the classroom, these are just two examples I know could be useful.
